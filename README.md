@@ -1,9 +1,9 @@
-﻿# [2017] Software Piracy Project
+﻿# [2022] Shanavaas Software Piracy Project
 
 This project was made to showcase data, collected from multiple sources, using graphs and maps. The goal is to demonstrate the existence of correlations between author's thesis and real data. In particular, the existence of a correlation between the wealth of a country (GDP), of certain areas (continents) etc. and their illegal software rate followed by a short analysis of security risks connected to the usage of pirated software.
 
 ------------
-###### Created on: 06/2017 / Live version: https://shanavaas.github.io/software-piracy-licensed-protection/
+###### Created on: 06/2022 / Live version: https://shanavaas.github.io/software-piracy-licensed-protection/
 **Please note that this project is outdated and will not be maintained.**
 ------------
 ### Technologies/features:
